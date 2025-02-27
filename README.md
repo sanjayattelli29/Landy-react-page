@@ -46,12 +46,6 @@ Your project will have everything you need to build a modern single-page React a
 
 - ⚙️ **Maintenance** - All of the content is stored in the JSON files, so that you can easily manage the content of the website
 
-## Google Lighthouse
-
-![1](https://user-images.githubusercontent.com/48876996/121569366-c313e000-ca31-11eb-940c-187f556ff0d6.png)
-
-[Google Lighthouse][Google Lighthouse] is an open-source, automated tool for measuring the quality of web pages. Google Lighthouse audits performance, accessibility and search engine optimization of web pages.
-
 ### Performance
 
 Audits for metrics like first paint and time to interactive to determine lag.
@@ -69,9 +63,6 @@ Looks for everything from HTTPS usage to correct image aspect ratios.
 Checks for best practices to ensure your site is discoverable.
 
 
-## Demo
-
-Check the live demo here 👉️ https://landy-web.netlify.app/
 
 
 ### Installation
@@ -80,7 +71,7 @@ You’ll need to have Node 10.16.0 or later version on your local development ma
 
 To create a new app, you have to:
 
-Begin by cloning this repository to establish your own local copy. This process is straightforward and ensures you have all the necessary files and resources at your fingertips. You can find step-by-step instructions in this helpful article: Cloning a [repository on GitHub.com](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository#cloning-a-repository).
+Begin by cloning this repository to establish your own local copy. This process is straightforward and ensures you have all the necessary files and resources at your fingertips. You can find step-by-step instructions in this helpful article: Cloning a [repository on GitHub.com]
 
 ## What's included
 
@@ -93,16 +84,12 @@ Begin by cloning this repository to establish your own local copy. This process 
 
 [whoooa][whoooa] - Use fantastic, handmade illustrations with easily changeable colors and different styles.
 
-## Usage
-
-Use it for whatever you want, and be sure to reach out to me on [Twitter](https://twitter.com/Adrinlolx) if you have any questions, or build something cool with it.
 
 ## License
 
 Licensed under the MIT license.
 
 <!-- prettier-ignore-start -->
-[antd]: https://github.com/ant-design/ant-design
 [react-awesome-reveal]: https://www.npmjs.com/package/react-awesome-reveal
 [styled-componets]: https://github.com/styled-components/styled-components
 [i18next]: https://github.com/i18next/i18next
